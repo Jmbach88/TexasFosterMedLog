@@ -9,6 +9,7 @@ A desktop application for tracking medication administration in foster care envi
 ## 📋 Table of Contents
 
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Installation](#installation)
   - [For End Users](#for-end-users)
@@ -37,6 +38,28 @@ Medication Logger helps foster care providers maintain accurate medication admin
 - ✅ **Easy Backup** - Simple file-based data storage
 - ✅ **Cross-Platform** - Works on Windows, macOS, and Linux
 - ✅ **Production Ready** - Comprehensive error handling and memory leak prevention
+
+## 📸 Screenshots
+
+### Patient Profiles
+Manage patient information, prescribers, and pharmacy details with an intuitive interface.
+
+![Profiles Tab](screenshots/profiles.png)
+
+### Medication Cards
+Create reusable medication templates with image support for easy identification.
+
+![Medication Cards](screenshots/med%20cards.png)
+
+### Medication Logs
+Track daily medication administration with dual view modes - calendar and detailed list.
+
+![Medication Logs](screenshots/med%20logs.png)
+
+### Export Options
+Export to Word, PDF, and Excel with customizable options and auto-open after export.
+
+![Export Dialog](screenshots/export%20window.png)
 
 ## ✨ Features
 
