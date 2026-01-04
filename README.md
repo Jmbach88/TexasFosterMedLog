@@ -1,6 +1,6 @@
 # Medication Logger
 
-A desktop application for tracking medication administration in foster care environments. Built with Python and Tkinter, designed for easy deployment as a standalone executable.
+A desktop application for tracking medication administration in foster care environments. Built with Python and Tkinter, designed for easy deployment as a standalone executable. Outputs Form 2994 (Child Placing Agency Medication Log)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
