@@ -72,7 +72,7 @@ Export to Word, PDF, and Excel with customizable options and auto-open after exp
 ### Medication Cards
 - Create reusable medication templates
 - Add medication images for easy identification
-- **Mobile image support** - Upload directly from iPhone (HEIC/HEIF) or Android (JPEG/WebP)
+- **Mobile image support** - Accepts files directly from iPhone (HEIC/HEIF) or Android (JPEG/WebP)
 - **Image validation** - Automatic format, size, and dimension checking
 - Track dosage, strength, and administration instructions
 - Store prescribing information and PRN reasons
@@ -389,20 +389,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Custom export templates
 - [ ] Print preview
 
-### Version 2.0 - Future
-- [ ] Web interface option
-- [ ] Mobile companion app
-- [ ] Cloud backup integration (optional)
-- [ ] Multi-user support with permissions
-- [ ] Database backend option (SQLite/PostgreSQL)
-
-### Long-term Vision
-- [ ] HIPAA compliance mode
-- [ ] Barcode scanning for medication verification
-- [ ] API for third-party integration
-- [ ] Advanced reporting and analytics
-- [ ] Integration with pharmacy systems
-
 ## 📝 What's New in v1.0
 
 ### New Features
@@ -600,14 +586,6 @@ profiles = profile_manager.get_all_profiles()
 - No encryption (files are human-readable)
 - Suitable for single-computer use
 - Privacy through physical access control
-
-### Future (Network/Mobile Use)
-When adding network access, implement:
-- User authentication (username/password)
-- Data encryption at rest and in transit
-- Role-based access control
-- Audit logging
-- HIPAA compliance measures
 
 ## Troubleshooting
 
