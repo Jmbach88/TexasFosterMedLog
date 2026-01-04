@@ -8,7 +8,7 @@ A desktop application for tracking medication administration in foster care envi
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#-overview)
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Installation](#installation)
