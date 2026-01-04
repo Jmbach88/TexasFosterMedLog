@@ -25,9 +25,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Medication logs** - Monthly administration tracking with calendar and list views
 - **Dual view modes** - Toggle between calendar view and detailed list view for logs
 - **Calendar interface** - Visual calendar with clickable days for quick entry
-- **Word document export** - Professional, editable `.docx` reports
-- **PDF export** - Print-ready documents (Windows only)
-- **Excel export** - Data export to `.xlsx` spreadsheets for analysis
+- **Word document export** - Texas DFPS **Form 2994 (CPA Medication Log)** in editable `.docx` format
+- **PDF export** - Form 2994 compliant, print-ready documents (Windows only, requires activated Microsoft Word)
+- **Excel export** - Readable data format in `.xlsx` spreadsheets for analysis and record-keeping
 - **Mobile image support** - Direct upload from smartphones:
   - iPhone: HEIC/HEIF (iOS 11+), JPEG, PNG
   - Android: JPEG, WebP, PNG

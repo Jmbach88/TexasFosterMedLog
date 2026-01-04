@@ -7,7 +7,7 @@
 
 ## 🎯 Overview
 
-Medication Logger v1.0.0 is the first production-ready release of our desktop application for tracking medication administration in foster care environments. This release provides a complete, stable, and user-friendly solution for foster care providers to maintain accurate medication records.
+Medication Logger v1.0.0 is the first production-ready release of our desktop application for tracking medication administration in Texas foster care environments. This release generates **Form 2994 (Child Placing Agency Medication Log)** as mandated by the Texas Department of Family and Protective Services (DFPS), providing a complete, compliant, and user-friendly solution for foster care providers.
 
 ---
 
@@ -26,9 +26,9 @@ Upload medication photos directly from your smartphone:
 - ✅ **Automatic validation** - Format, size (10MB), dimensions (4000×4000)
 
 ### 📄 Professional Reporting
-- **Word Documents** - Editable .docx files for review and printing
-- **PDF Reports** - Print-ready documents (Windows)
-- **Excel Exports** - Data analysis and record-keeping
+- **Word Documents** - Texas DFPS **Form 2994 (CPA Medication Log)** in editable .docx format
+- **PDF Reports** - Form 2994 compliant, print-ready documents (Windows, requires activated Microsoft Word)
+- **Excel Exports** - Readable data format for analysis and record-keeping
 
 ### 🛡️ Data Integrity & Reliability
 - **Atomic file writes** - Prevents data corruption during crashes

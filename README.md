@@ -27,12 +27,13 @@ A desktop application for tracking medication administration in foster care envi
 
 ## 🎯 Overview
 
-Medication Logger helps foster care providers maintain accurate medication administration records. The application provides an intuitive interface for tracking medications, creating administration logs, and generating professional reports.
+Medication Logger helps Texas foster care providers maintain accurate medication administration records in compliance with state requirements. The application generates **Form 2994 (Child Placing Agency Medication Log)** as mandated by the Texas Department of Family and Protective Services (DFPS).
 
 **Key Highlights:**
+- ✅ **Texas DFPS Compliant** - Generates Form 2994 (CPA Medication Log) for Word/PDF exports
 - ✅ **Standalone Application** - No Python installation required for end users
 - ✅ **Local Data Storage** - All data stored securely on the user's computer
-- ✅ **Professional Reports** - Export to Word, PDF, and Excel formats
+- ✅ **Professional Reports** - Export to compliant Word/PDF formats, plus Excel for data analysis
 - ✅ **Mobile Image Support** - Direct upload from iPhone (HEIC) and Android (WebP)
 - ✅ **Data Integrity** - Atomic file writes prevent data loss
 - ✅ **Easy Backup** - Simple file-based data storage
@@ -86,10 +87,10 @@ Export to Word, PDF, and Excel with customizable options and auto-open after exp
 - Visual indicators for days with administrations
 
 ### Export & Reporting
-- **Word Documents** - Editable `.docx` files (no Word installation required)
-- **PDF Reports** - Print-ready documents (Windows only, **requires activated Microsoft Word**)
-- **Excel Spreadsheets** - Data for analysis (no Excel installation required)
-- Customizable export options
+- **Word Documents (.docx)** - Texas DFPS **Form 2994 (CPA Medication Log)** format (no Word installation required)
+- **PDF Reports (.pdf)** - Form 2994 compliant, print-ready documents (Windows only, **requires activated Microsoft Word**)
+- **Excel Spreadsheets (.xlsx)** - Readable data format for analysis and record-keeping (no Excel installation required)
+- Customizable export options (extended table or continuation pages)
 - Batch export multiple logs
 - **Auto-open exported files** - Checkbox to automatically open folder after export
 

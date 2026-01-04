@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-**Medication Logger** is a desktop application designed to help foster care providers track medication administration for children in their care. The application provides an intuitive interface for managing patient profiles, creating medication logs, and generating professional reports.
+**Medication Logger** is a desktop application designed to help Texas foster care providers track medication administration for children in their care. The application generates **Form 2994 (Child Placing Agency Medication Log)** as mandated by the Texas Department of Family and Protective Services (DFPS), providing an intuitive interface for managing patient profiles, creating medication logs, and generating compliant professional reports.
 
 ## Project Goals
 
@@ -116,9 +116,9 @@ The application follows a **modular architecture** with strict **separation of c
 - **Memory optimized** - No memory leaks from event handlers
 
 ### 4. Export & Reporting
-- **Word Documents** - Professional, editable reports (no Word installation required)
-- **PDF Files** - Print-ready documents (Windows only, requires activated Microsoft Word)
-- **Excel Spreadsheets** - Data for analysis (no Excel installation required)
+- **Word Documents** - Texas DFPS **Form 2994 (CPA Medication Log)** in editable .docx format (no Word installation required)
+- **PDF Files** - Form 2994 compliant, print-ready documents (Windows only, requires activated Microsoft Word)
+- **Excel Spreadsheets** - Readable data format for analysis and record-keeping (no Excel installation required)
 - **Template validation** - Automatic verification before export
 - **Auto-open after export** - Checkbox to automatically open folder after successful export
 - Batch export multiple logs
