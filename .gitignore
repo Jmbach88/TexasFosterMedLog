@@ -1,0 +1,82 @@
+# Medication Logger .gitignore
+
+# User data - NEVER commit user data!
+data/
+MedicationLogger/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.manifest
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+.DS_Store
+
+# Distribution / packaging
+*.egg-info/
+.eggs/
+*.egg
+
+# Documentation builds
+docs/_build/
+site/
+
+# Environment variables
+.env
+.env.local
+
+# OS specific
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Build artifacts
+*.pyc
+*.pyo
+*.exe
+*.dmg
+*.pkg
+*.deb
+*.rpm
+*.zip
+
+# Except our distribution zips (optional - uncomment if you want to track releases)
+# !dist/MedicationLogger-*.zip
+
+nul

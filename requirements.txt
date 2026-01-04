@@ -1,0 +1,15 @@
+# Medication Logger - Python Dependencies
+
+# Document Generation
+python-docx>=0.8.11    # Word document export
+openpyxl>=3.0.9        # Excel export
+
+# Image Support
+Pillow>=9.0.0          # Image handling in medication cards
+pillow-heif>=0.10.0    # HEIC/HEIF support for iPhone images
+
+# PDF Conversion (Optional - Windows only)
+docx2pdf>=0.1.8; platform_system=="Windows"
+
+# Build Tool (for creating standalone executable)
+pyinstaller>=5.0.0
